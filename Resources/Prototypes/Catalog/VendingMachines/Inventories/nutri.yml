@@ -42,6 +42,7 @@
     ChemistryBottleEZNutrient: 3
     Bucket: 3
     BoxMouthSwab: 1
+#    BoxAgrichem: 1 #Maid
     #TO DO:
     #plant analyzer
   contrabandInventory:

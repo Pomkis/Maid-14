@@ -57,7 +57,13 @@
     BoxCandle: 2
     BoxCandleSmall: 2
     Urn: 5
+#    SpectralLocator: 1 #Maid
+#    TemplarArmor: 1 #goob #Maid
     ClothingHeadHelmetTemplar: 2 #goob
+#    ClothingOuterClownPriest: 1 #goob #Maid
+#    MonkRobes: 1 #goob #Maid
+#    ClothingHeadHatImam: 1 #goob #Maid
+#    HeadSkeleton: 1 #goob #Maid
   contrabandInventory:
     FoodBakedBunHotX: 2
     DrinkWineBottleFull: 1

@@ -67,6 +67,8 @@
     ClothingShoesBootsCombat: 1
     ClothingShoesBootsWinterSec: 2
     ClothingShoesWinterCombatBoots : 2 # Goobstation
+#    ClothingHeadHelmetJustice: 1 #Maid
+#    ClothingHeadHelmetBasic: 2 #Maid
     ClothingHeadHelmetBasicAlt: 2
   contrabandInventory:
     ClothingMaskClownSecurity: 1

@@ -921,7 +921,9 @@
     idleState: icon
     runningState: building
     staticPacks:
+#    - ClothingCivilian #Maid
     - ClothingCargo
+#    - ClothingCommand #Maid
     - ClothingEngineering
     - ClothingMedical
     - ClothingScience

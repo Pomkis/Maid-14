@@ -57,12 +57,14 @@
     ClothingBackpackSatchelLeather: 2
     ClothingBackpackMessenger: 5 # Frontier
     ClothingRandomSpawner: 8
+#    ClothingUniformRandomShorts: 4 #Maid
     ClothingHeadHatBeret: 4
     ClothingHeadBandBlack: 2
     ClothingHeadBandBlue: 2
     ClothingHeadBandGreen: 2
     ClothingHeadBandRed: 2
     ClothingHeadBandSkull: 2
+#    ClothingHeadHatPropeller: 2 #Maid
     ClothingHeadHatGreyFlatcap: 3
     ClothingHeadHatBrownFlatcap: 3
     ClothingUniformJumpsuitColorGrey: 8
@@ -128,6 +130,7 @@
     ClothingHeadHatCorpsoft: 2
     ClothingHeadFishCap: 2
     ClothingHeadRastaHat: 2
+#    ClothingHeadPropellerHat: 2 #Maid
     ClothingBeltStorageWaistbag: 3
     ClothingEyesGlasses: 6
     ClothingHandsGlovesColorBlack: 4
@@ -143,10 +146,26 @@
     ClothingEyesGlassesCheapSunglasses: 3
     ClothingUniformJumpskirtDressOpenShoulder: 1 # Goobstation
     ClothingShoesSandals: 1 # Goobstation
+#    ClothingOuterCoatBomberPunkRed: 3 # NF #Maid
     ClothingOuterCoatJacketLeather: 3 # NF
     ClothingOuterCoatJacketBiker: 3 # NF
+#    ClothingOuterCoatJacketJamrock: 3 # NF #Maid
+#    ClothingOuterCoatBomberAerostatic: 3 # NF #Maid
+#    ClothingOuterCoatJacketLettermanBlue: 3 # NF #Maid
     ClothingOuterCoatJacketLettermanBrown: 3 # NF
+#    ClothingOuterCoatJacketLettermanRed: 3 # NF #Maid
+#    ClothingOuterCoatJacketLettermanMagenta: 3 # NF #Maid
+#    ClothingOuterCoatBomberPinkSleeves: 3 # NF #Maid
+#    ClothingNeckCloakCOG: 3 # Monolith #Maid
     ClothingShoesClothwrap: 3 # NF
+#    ClothingNeckPonchoBlack: 3 # Monolith #Maid
+#    ClothingNeckPonchoArctic: 3 # Monolith #Maid
+#    ClothingNeckPonchoSyndicate: 3 # Monolith #Maid
+#    ClothingNeckPonchoSmallPink: 3 # Monolith #Maid
+#    ClothingNeckPonchoSmallRed: 3 # Monolith #Maid
+#    ClothingNeckPonchoSmallPurple: 3 # Monolith #Maid
+#    ClothingNeckPonchoSmallBlack: 3 # Monolith #Maid
+#    ClothingNeckPonchoSmallWhite: 3 # Monolith #Maid
     # DO NOT ADD MORE, USE UNIFORM DYING
 
   # Maid Bra Start
