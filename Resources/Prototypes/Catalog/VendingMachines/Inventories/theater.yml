@@ -103,8 +103,6 @@
     ClothingUniformJumpsuitKimono: 1
     ClothingHeadHatCasa: 1
     FoodPoppy: 1
-    ClothingHeadHatGladiator: 1
-    ClothingUniformJumpsuitGladiator: 1
     ClothingHeadHatCowboyBrown: 1
     ClothingHeadHatCowboyBlack: 1
     ClothingHeadHatCowboyWhite: 1
@@ -112,13 +110,6 @@
     ClothingShoesBootsCowboyBrown: 1
     ClothingShoesBootsCowboyBlack: 1
     ClothingShoesBootsCowboyWhite: 1
-    ClothingCostumeAbductorHead: 1
-    ClothingCostumeAbductor: 1
-    ClothingHeadSanabi: 1 # Goobstation
-    ClothingNeckCloakSanabi: 1 # Goobstation
-    ClothingCostumeGingerbreadHead: 1 #goob
-    ClothingOuterSuitHotDog: 1 # Goob
-    ClothingOuterSuitPickle: 1
   contrabandInventory:
     ClothingHeadHatRichard: 1
     ClothingShoesBling: 1

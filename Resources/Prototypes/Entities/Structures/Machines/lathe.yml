@@ -921,9 +921,7 @@
     idleState: icon
     runningState: building
     staticPacks:
-    - ClothingCivilian
     - ClothingCargo
-    - ClothingCommand
     - ClothingEngineering
     - ClothingMedical
     - ClothingScience
