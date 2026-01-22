@@ -13,9 +13,11 @@ ent-WeaponMechCombatFiredartLaser = CH-PS "Огненная стрела"
 ent-WeaponMechCombatTeslaCannon = P-X "Тесла"
     .desc = Оружие для боевых мехов, стреляющее энергетическими шарами, основанное на принципе экспериментального двигателя Теслы.
     .suffix = Оружие меха, Оружие, Боевое, Тесла
-ent-WeaponMechCombatDisabler = CH-PD Дизейблер #Maid
+# Maid
+ent-WeaponMechCombatDisabler = CH-PD Дизейблер
     .desc = Несмертельный электрошокер, который позволяет обездвиживать злоумышленников.
     .suffix = Оружие меха, Оружие, Боевое, Станнер
+# MaidEnd
 ent-WeaponMechCombatTaser = PBT "Умиротворитель"
     .desc = Навесной несмертельный электрошокер, который позволяет оглушать злоумышленников.
     .suffix = Оружие меха, Оружие, Боевое, Станнер, admeme
