@@ -118698,8 +118698,6 @@ entities:
     - type: Transform
       pos: -11.5,51.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: GunSafeLaserCarbine
   entities:
   - uid: 17644
@@ -118709,8 +118707,6 @@ entities:
     - type: Transform
       pos: -3.5,63.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
     - type: EntityStorage
       air:
         volume: 200
@@ -118753,8 +118749,6 @@ entities:
     - type: Transform
       pos: 1.5,65.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: GunSafeRifleLecter
   entities:
   - uid: 17649
@@ -118762,8 +118756,6 @@ entities:
     - type: Transform
       pos: 1.5,66.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: GunSafeShotgunEnforcer
   entities:
   - uid: 17650
@@ -118773,8 +118765,6 @@ entities:
     - type: Transform
       pos: -1.5,68.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
     - type: EntityStorage
       air:
         volume: 200
@@ -118806,8 +118796,6 @@ entities:
     - type: Transform
       pos: -4.5,63.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
     - type: EntityStorage
       air:
         volume: 200
@@ -118849,8 +118837,6 @@ entities:
     - type: Transform
       pos: 1.5,68.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: GyroscopeMachineCircuitboard
   entities:
   - uid: 17655
@@ -119911,19 +119897,6 @@ entities:
     - type: Transform
       pos: -4.5,-20.5
       parent: 2
-- proto: IntercomAll
-  entities:
-  - uid: 17827
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: -64.5,4.5
-      parent: 2
-  - uid: 17828
-    components:
-    - type: Transform
-      pos: -26.5,17.5
-      parent: 2
 - proto: IntercomCommand
   entities:
   - uid: 17829
@@ -120657,29 +120630,21 @@ entities:
     - type: Transform
       pos: 12.5,-33.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17931
     components:
     - type: Transform
       pos: 12.5,-34.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17932
     components:
     - type: Transform
       pos: 12.5,-41.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17933
     components:
     - type: Transform
       pos: 12.5,-40.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerBooze
   entities:
   - uid: 10242
@@ -120714,8 +120679,6 @@ entities:
         - 0
     - type: Lock
       locked: False
-    - type: PointLight
-      color: '#7FC080FF'
     - type: ContainerContainer
       containers:
         entity_storage: !type:Container
@@ -120762,8 +120725,6 @@ entities:
         - 0
         - 0
         - 0
-    - type: PointLight
-      color: '#D56C6CFF'
     - type: ContainerContainer
       containers:
         entity_storage: !type:Container
@@ -120811,8 +120772,6 @@ entities:
         - 0
         - 0
         - 0
-    - type: PointLight
-      color: '#D56C6CFF'
     - type: ContainerContainer
       containers:
         entity_storage: !type:Container
@@ -120834,22 +120793,16 @@ entities:
     - type: Transform
       pos: 25.5,-15.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17940
     components:
     - type: Transform
       pos: 26.5,-15.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17941
     components:
     - type: Transform
       pos: 27.5,-15.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerCaptainFilledNoLaser
   entities:
   - uid: 17942
@@ -120857,8 +120810,6 @@ entities:
     - type: Transform
       pos: -12.5,-2.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerChemistryFilled
   entities:
   - uid: 17943
@@ -120866,22 +120817,16 @@ entities:
     - type: Transform
       pos: 57.5,-2.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17944
     components:
     - type: Transform
       pos: 57.5,-4.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17945
     components:
     - type: Transform
       pos: 57.5,-3.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerChiefEngineerFilled
   entities:
   - uid: 17946
@@ -120889,8 +120834,6 @@ entities:
     - type: Transform
       pos: 3.5,-42.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerChiefMedicalOfficerFilled
   entities:
   - uid: 17947
@@ -120898,8 +120841,6 @@ entities:
     - type: Transform
       pos: 42.5,-30.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerDetectiveFilled
   entities:
   - uid: 11850
@@ -120929,8 +120870,6 @@ entities:
         - 0
         - 0
         - 0
-    - type: PointLight
-      color: '#D56C6CFF'
     - type: ContainerContainer
       containers:
         entity_storage: !type:Container
@@ -120949,15 +120888,11 @@ entities:
     - type: Transform
       pos: -7.5,-49.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17949
     components:
     - type: Transform
       pos: -26.5,19.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerEngineerFilledHardsuit
   entities:
   - uid: 17950
@@ -120965,71 +120900,51 @@ entities:
     - type: Transform
       pos: 0.5,-47.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17951
     components:
     - type: Transform
       pos: -0.5,-47.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17952
     components:
     - type: Transform
       pos: 8.5,-51.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17953
     components:
     - type: Transform
       pos: 7.5,-51.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17954
     components:
     - type: Transform
       pos: 6.5,-51.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17955
     components:
     - type: Transform
       pos: 5.5,-51.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17956
     components:
     - type: Transform
       pos: 4.5,-51.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17957
     components:
     - type: Transform
       pos: -3.5,-51.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17958
     components:
     - type: Transform
       pos: -4.5,-51.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17959
     components:
     - type: Transform
       pos: -5.5,-51.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerEvidence
   entities:
   - uid: 17960
@@ -121039,15 +120954,11 @@ entities:
     - type: Transform
       pos: -0.5,63.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17961
     components:
     - type: Transform
       pos: -10.5,34.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17962
     components:
     - type: MetaData
@@ -121055,8 +120966,6 @@ entities:
     - type: Transform
       pos: -12.5,36.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17963
     components:
     - type: MetaData
@@ -121064,8 +120973,6 @@ entities:
     - type: Transform
       pos: -11.5,36.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17964
     components:
     - type: MetaData
@@ -121073,8 +120980,6 @@ entities:
     - type: Transform
       pos: -10.5,36.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerFreezer
   entities:
   - uid: 1211
@@ -121082,8 +120987,6 @@ entities:
     - type: Transform
       pos: -8.5,-18.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
     - type: EntityStorage
       air:
         volume: 200
@@ -121126,8 +121029,6 @@ entities:
       parent: 2
     - type: Lock
       locked: False
-    - type: PointLight
-      color: '#7FC080FF'
     - type: EntityStorage
       air:
         volume: 200
@@ -121169,8 +121070,6 @@ entities:
       parent: 2
     - type: Lock
       locked: False
-    - type: PointLight
-      color: '#7FC080FF'
     - type: EntityStorage
       air:
         volume: 200
@@ -121216,8 +121115,6 @@ entities:
     - type: Transform
       pos: 19.5,-5.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerHeadOfPersonnelFilled
   entities:
   - uid: 17966
@@ -121225,8 +121122,6 @@ entities:
     - type: Transform
       pos: 6.5,-0.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerHeadOfSecurityFilled
   entities:
   - uid: 17967
@@ -121234,8 +121129,6 @@ entities:
     - type: Transform
       pos: -1.5,59.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
     - type: EntityStorage
       air:
         volume: 200
@@ -121277,43 +121170,31 @@ entities:
     - type: Transform
       pos: 51.5,-24.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17971
     components:
     - type: Transform
       pos: 40.5,-19.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17972
     components:
     - type: Transform
       pos: 50.5,-24.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17973
     components:
     - type: Transform
       pos: 43.5,-15.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17974
     components:
     - type: Transform
       pos: 43.5,-13.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17975
     components:
     - type: Transform
       pos: 43.5,-14.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerMedicine
   entities:
   - uid: 17976
@@ -121321,15 +121202,11 @@ entities:
     - type: Transform
       pos: 60.5,-17.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17977
     components:
     - type: Transform
       pos: 61.5,-17.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerMedicineFilled
   entities:
   - uid: 10340
@@ -121337,8 +121214,6 @@ entities:
     - type: Transform
       pos: 54.5,-17.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
     - type: EntityStorage
       air:
         volume: 200
@@ -121384,15 +121259,11 @@ entities:
     - type: Transform
       pos: 40.5,-22.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17979
     components:
     - type: Transform
       pos: 53.5,-30.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerParamedicFilled
   entities:
   - uid: 17980
@@ -121400,29 +121271,21 @@ entities:
     - type: Transform
       pos: 49.5,-32.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17981
     components:
     - type: Transform
       pos: 48.5,-32.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17982
     components:
     - type: Transform
       pos: 51.5,-32.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17983
     components:
     - type: Transform
       pos: 50.5,-32.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerQuarterMasterFilled
   entities:
   - uid: 17984
@@ -121430,8 +121293,6 @@ entities:
     - type: Transform
       pos: -21.5,-11.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerResearchDirectorFilled
   entities:
   - uid: 17985
@@ -121439,8 +121300,6 @@ entities:
     - type: Transform
       pos: 61.5,-23.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerSalvageSpecialistFilledHardsuit
   entities:
   - uid: 17986
@@ -121448,22 +121307,16 @@ entities:
     - type: Transform
       pos: -22.5,-20.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17987
     components:
     - type: Transform
       pos: -22.5,-21.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17988
     components:
     - type: Transform
       pos: -22.5,-22.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17989
     components:
     - type: Transform
@@ -121486,85 +121339,61 @@ entities:
     - type: Transform
       pos: 66.5,-24.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17993
     components:
     - type: Transform
       pos: 82.5,-23.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17994
     components:
     - type: Transform
       pos: 83.5,-23.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17995
     components:
     - type: Transform
       pos: 84.5,-23.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17996
     components:
     - type: Transform
       pos: 85.5,-23.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17997
     components:
     - type: Transform
       pos: 82.5,-25.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17998
     components:
     - type: Transform
       pos: 83.5,-25.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 17999
     components:
     - type: Transform
       pos: 84.5,-25.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18000
     components:
     - type: Transform
       pos: 85.5,-25.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18001
     components:
     - type: Transform
       pos: 72.5,-6.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18002
     components:
     - type: Transform
       pos: 64.5,-5.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18003
     components:
     - type: Transform
       pos: -17.5,-43.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
     - type: EntityStorage
       air:
         volume: 200
@@ -121599,8 +121428,6 @@ entities:
       parent: 2
     - type: Lock
       locked: False
-    - type: PointLight
-      color: '#7FC080FF'
     - type: EntityStorage
       air:
         volume: 200
@@ -121633,8 +121460,6 @@ entities:
       parent: 2
     - type: Lock
       locked: False
-    - type: PointLight
-      color: '#7FC080FF'
     - type: EntityStorage
       air:
         volume: 200
@@ -121667,8 +121492,6 @@ entities:
       parent: 2
     - type: Lock
       locked: False
-    - type: PointLight
-      color: '#7FC080FF'
     - type: EntityStorage
       air:
         volume: 200
@@ -121698,92 +121521,66 @@ entities:
     - type: Transform
       pos: -60.5,22.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18008
     components:
     - type: Transform
       pos: 4.5,38.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18009
     components:
     - type: Transform
       pos: 6.5,38.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18010
     components:
     - type: Transform
       pos: 8.5,38.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18011
     components:
     - type: Transform
       pos: 8.5,42.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18012
     components:
     - type: Transform
       pos: 6.5,42.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18013
     components:
     - type: Transform
       pos: 4.5,42.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18014
     components:
     - type: Transform
       pos: -5.5,56.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18015
     components:
     - type: Transform
       pos: -5.5,57.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18016
     components:
     - type: Transform
       pos: -5.5,59.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18017
     components:
     - type: Transform
       pos: -6.5,59.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18018
     components:
     - type: Transform
       pos: -7.5,59.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18019
     components:
     - type: Transform
       pos: -8.5,59.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerSyndicatePersonal
   entities:
   - uid: 10398
@@ -121793,8 +121590,6 @@ entities:
       parent: 2
     - type: Lock
       locked: False
-    - type: PointLight
-      color: '#7FC080FF'
     - type: EntityStorage
       air:
         volume: 200
@@ -121843,8 +121638,6 @@ entities:
     - type: Transform
       pos: -13.5,48.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LockerWeldingSuppliesFilled
   entities:
   - uid: 18021
@@ -121852,29 +121645,21 @@ entities:
     - type: Transform
       pos: -8.5,-49.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18022
     components:
     - type: Transform
       pos: -21.5,20.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18023
     components:
     - type: Transform
       pos: -32.5,2.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
   - uid: 18024
     components:
     - type: Transform
       pos: -25.5,19.5
       parent: 2
-    - type: PointLight
-      color: '#D56C6CFF'
 - proto: LogicGateOr
   entities:
   - uid: 18025
@@ -126305,25 +126090,21 @@ entities:
     - type: Transform
       pos: 38.684093,13.554453
       parent: 2
-    - type: PointLight
   - uid: 18709
     components:
     - type: Transform
       pos: -49.560024,23.509697
       parent: 2
-    - type: PointLight
   - uid: 18710
     components:
     - type: Transform
       pos: -43.553127,22.481974
       parent: 2
-    - type: PointLight
   - uid: 18711
     components:
     - type: Transform
       pos: -4.5061245,26.535324
       parent: 2
-    - type: PointLight
 - proto: PowerCellMedium
   entities:
   - uid: 18712
@@ -126331,43 +126112,36 @@ entities:
     - type: Transform
       pos: 11.393547,37.49745
       parent: 2
-    - type: PointLight
   - uid: 18713
     components:
     - type: Transform
       pos: 81.49889,-15.438269
       parent: 2
-    - type: PointLight
   - uid: 18714
     components:
     - type: Transform
       pos: 81.55253,-17.404787
       parent: 2
-    - type: PointLight
   - uid: 18715
     components:
     - type: Transform
       pos: 53.400955,-20.861273
       parent: 2
-    - type: PointLight
   - uid: 18716
     components:
     - type: Transform
       pos: 53.609287,-20.93424
       parent: 2
-    - type: PointLight
   - uid: 18717
     components:
     - type: Transform
       pos: -19.612247,-37.983044
       parent: 2
-    - type: PointLight
   - uid: 18718
     components:
     - type: Transform
       pos: -19.299747,-37.99867
       parent: 2
-    - type: PointLight
 - proto: PowerCellRecharger
   entities:
   - uid: 18719
@@ -126482,25 +126256,21 @@ entities:
     - type: Transform
       pos: 38.204926,13.491911
       parent: 2
-    - type: PointLight
   - uid: 18740
     components:
     - type: Transform
       pos: 38.559093,13.710812
       parent: 2
-    - type: PointLight
   - uid: 18741
     components:
     - type: Transform
       pos: -19.12774,55.743702
       parent: 2
-    - type: PointLight
   - uid: 18742
     components:
     - type: Transform
       pos: -19.768366,55.353077
       parent: 2
-    - type: PointLight
 - proto: PoweredLEDSmallLight
   entities:
   - uid: 18743
