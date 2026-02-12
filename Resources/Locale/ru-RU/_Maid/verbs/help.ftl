@@ -9,16 +9,16 @@ interaction-HelpUp-success-others-popup = {THE($user)} помогает {THE($ta
 interaction-HelpUp-fail-self-popup = Ты не смог помочь {THE($target)} встать.
 interaction-HelpUp-fail-target-popup = {THE($user)} не смог помочь встать.
 
-interaction-ForceDown-name = Force down
-interaction-ForceDown-description = Force the person to lay down on the floor.
-interaction-ForceDown-delayed-self-popup = You try to force {THE($target)} down...
-interaction-ForceDown-delayed-target-popup = {THE($user)} tries to force you down...
-interaction-ForceDown-delayed-others-popup = {THE($user)} tries to force {THE($target)} down...
-interaction-ForceDown-success-self-popup = You force {THE($target)} to lay down.
-interaction-ForceDown-success-target-popup = {THE($user)} forces you to lay down.
-interaction-ForceDown-success-others-popup = {THE($user)} forces {THE($target)} to lay down.
-interaction-ForceDown-fail-self-popup = You fail to force {THE($target)} down.
-interaction-ForceDown-fail-target-popup = {THE($user)} fails to force you down.
+interaction-ForceDown-name = Уложить на пол
+interaction-ForceDown-description = Принудительно уложить человека на пол.
+interaction-ForceDown-delayed-self-popup = Вы пытаетесь принудительно уложить {THE($target)}...
+interaction-ForceDown-delayed-target-popup = {THE($user)} пытается принудительно уложить вас...
+interaction-ForceDown-delayed-others-popup = {THE($user)} пытается принудительно уложить {THE($target)}...
+interaction-ForceDown-success-self-popup = Вы принудительно уложили {THE($target)} на пол.
+interaction-ForceDown-success-target-popup = {THE($user)} принудительно уложил вас на пол.
+interaction-ForceDown-success-others-popup = {THE($user)} принудительно уложил {THE($target)} на пол.
+interaction-ForceDown-fail-self-popup = Вам не удалось принудительно уложить {THE($target)}.
+interaction-ForceDown-fail-target-popup = {THE($user)} не удалось принудительно уложить вас.
 
 interaction-MakeSleepOther-name = Заставить уснуть
 interaction-MakeSleepOther-description = Заставить цель уснуть.
