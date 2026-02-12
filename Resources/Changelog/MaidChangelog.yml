@@ -401,3 +401,17 @@ Entries:
       message: Отсутствие фальшфейера в аварийном наборе.
   id: 32
   time: '2026-02-09T00:50:26.0000000+00:00'
+- author: Warete
+  changes:
+    - type: Tweak
+      message: DoAfter чтобы усадить 2.0 -> 0.2.
+    - type: Tweak
+      message: PressureDamageChange был возвращён.
+    - type: Tweak
+      message: >-
+        Wonderbox: замена полов, шкафов, лазер и гамлет вынесены в каюту кэпа +
+        по мелочи. - pahan_chiiiil.
+    - type: Remove
+      message: Свет от некоторых объектов на ВондерБоксе.
+  id: 33
+  time: '2026-02-12T23:26:13.0000000+00:00'
