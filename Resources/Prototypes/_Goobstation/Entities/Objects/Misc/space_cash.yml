@@ -8,8 +8,8 @@
 - type: entity
   parent: [SpaceCash, BaseMajorContraband]
   id: SpaceCashCounterfeit
-  name: suspicious spesos
-  description: This looks like painted-on paper.
+  name: подозрительные кредиты
+  description: Это выглядит как рисунок на бумаге.
 
 - type: entity
   parent: SpaceCashCounterfeit
