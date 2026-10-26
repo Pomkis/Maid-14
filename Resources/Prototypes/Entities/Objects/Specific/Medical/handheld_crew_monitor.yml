@@ -27,7 +27,7 @@
 - type: entity
   name: handheld crew monitor
 #  categories: [ DoNotMap ] # Goobstation
-  parent: [ BaseItem, BaseMedicalContraband ] # parent: [ BaseHandheldComputer, BaseMedicalContraband ] # Goobstation
+  parent: [ BaseHandheldComputer, BaseMedicalContraband ] # Goobstation
   # CMO-only bud, don't add more. # Goobstation - no lmao
   id: HandheldCrewMonitor
   description: A hand-held crew monitor displaying the status of suit sensors.
@@ -38,6 +38,7 @@
     sprite: Objects/Specific/Medical/handheldcrewmonitor.rsi
     state: scanner
   - type: ActivatableUI
+    inHandsOnly: false
     key: enum.CrewMonitoringUIKey.Key
   - type: UserInterface
     interfaces:
